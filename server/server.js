@@ -10,7 +10,7 @@ const app = express();
 // PSOMlXblqRCVv6qN
 
 // Replace with your mongoLab URI
-const MONGO_URI = 'mongodb+srv://clarkgabe97:<password>@cluster0.6hu5cdp.mongodb.net/?retryWrites=true&w=majority';
+const MONGO_URI = 'mongodb+srv://clarkgabe97:Q8tb3x8PvNYmxq6@cluster0.6hu5cdp.mongodb.net/?retryWrites=true&w=majority';
 if (!MONGO_URI) {
   throw new Error('You must provide a MongoLab URI');
 }
